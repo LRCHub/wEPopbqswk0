@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "思い通りに",
+  "base_artist": "爛漫天国",
+  "createdAt": "2026-03-01T17:08:49.533683Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "思い通りに",
+      "artist": "爛漫天国",
+      "has_synced": false,
+      "path": "select/pl_01_思い通りに_爛漫天国.txt"
+    }
+  ]
+}
